@@ -13,7 +13,8 @@ a registered email in GMAIL.
 - Please make sure to enable "Access to less secure application" in this link https://myaccount.google.com/lesssecureapps 
 so the application will be able to send emails appropriately.
 
-You may see the application UI in an image file uploaded here named: "mailerUI.png" ( The UI is very
-simple and wasn't the main purpose of the app).
+Application UI:
+
+![alt text](https://github.com/davidplo4545/BulkMailer/blob/master/BulkMailer/mailerUI.png)
 
 Any recommendations/advices/ questions are welcome!
